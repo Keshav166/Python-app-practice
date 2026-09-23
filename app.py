@@ -9,6 +9,7 @@ quotes = [
     "Small steps lead to big results.",
     "Never stop improving.",
     "Success comes from consistency."
+    "Truth has no color, no religion, no nationality.",
 ]
 
 @app.route("/")
@@ -21,6 +22,7 @@ def home():
             <title>Daily Quote</title>
         </head>
         <body>
+            <h1>Hey there! Here's your daily dose of inspiration:</h1>
             <h1>🌟 Daily Quote</h1>
             <h2>"{quote}"</h2>
             <p>Have a great day ahead!</p>
