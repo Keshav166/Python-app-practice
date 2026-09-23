@@ -10,6 +10,7 @@ quotes = [
     "Never stop improving.",
     "Success comes from consistency."
     "Truth has no color, no religion, no nationality.",
+    "The only way to do great work is to love what you do.",
 ]
 
 @app.route("/")
