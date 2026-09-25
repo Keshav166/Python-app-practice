@@ -11,6 +11,9 @@ quotes = [
     "Success comes from consistency."
     "Truth has no color, no religion, no nationality.",
     "The only way to do great work is to love what you do.",
+    "Don't watch the clock; do what it does. Keep going.",
+    "The best way to predict the future is to create it.",
+    "Your time is limited, so don't waste it living someone else's life.",
 ]
 
 @app.route("/")
